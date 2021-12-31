@@ -68,7 +68,7 @@
 }
 
 .PRICE>.div1:nth-child(1) .featurelist>li:nth-child(n+5){
-  opacity:60%;
+  opacity:50%
  
 }
 
@@ -84,7 +84,7 @@ scale: 0.5;
 }
 
 .PRICE>.div1:nth-child(2) .featurelist>li:nth-child(n+8){
-  opacity: 60%;
+  opacity: 50%
  
 }
 
