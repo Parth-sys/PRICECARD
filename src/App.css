@@ -67,10 +67,6 @@
  
 }
 
-.PRICE>.div1:nth-child(1) .featurelist>li:nth-child(n+5){
-  opacity:0.6%
- 
-}
 
 .PRICE>.div1>.pricediv{
 transition: ease 0.10;
@@ -83,10 +79,6 @@ scale: 0.5;
  
 }
 
-.PRICE>.div1:nth-child(2) .featurelist>li:nth-child(n+8){
-  opacity: 0.6%
- 
-}
 
 
 .featurelist >li{
